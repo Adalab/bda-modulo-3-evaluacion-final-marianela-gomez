@@ -2,12 +2,11 @@
 
 ## 🔗 Table of Contents
 
-* [Description](#️description)
-* [Installation](#installation)
-* [Project Structure](#project-structure)
-* [Dependencies](#dependencies)
-* [Data](#data)
-* [Key findings](#key-findings)
+* [Description](#️-description)
+* [Installation](#️-installation)
+* [Project Structure](#-project-structure)
+* [Data](#-data)
+* [Key findings](#-key-findings)
 * [Contact](#contact)
 
 ## 🗒️ Description 
