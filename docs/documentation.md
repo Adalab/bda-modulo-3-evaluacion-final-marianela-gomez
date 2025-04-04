@@ -89,9 +89,11 @@ The data consists of two sets of files that describing the behavior of customers
 
       - `Country`: It only has 'Canada'. This column is deleted.  
 
-2. **Exploratory Data Analysis (EDA)**: Identifying trends and patterns.
+2. **Exploratory Data Analysis (EDA)**: 
 
 
 3. **Results & Interpretation**: Summarizing key insights.
-4. **Conclusions & Next Steps**: Recommendations and future work.
+4. **Conclusions & Next Steps**: 
+
+    - Visualization using geopy and geopandas.
 
