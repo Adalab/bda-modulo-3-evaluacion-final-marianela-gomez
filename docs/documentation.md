@@ -103,6 +103,13 @@ The data consists of two sets of files that describing the behavior of customers
 
       - Despite these trends, a significant number of users accumulate the same points per distance, regardless of their loyalty card.
 
+    - Customers by province:
+
+      - The distribution of customers across provinces is uneven, with Ontario having the highest number of customers, followed by British Columbia and Quebec. Prince Edward Island has the fewest customers, reflecting its low population.
+
+    - Average Salary by Education level: 
+
+    
 3. **Next Steps**: 
 
     - Visualization using geopy and geopandas.
