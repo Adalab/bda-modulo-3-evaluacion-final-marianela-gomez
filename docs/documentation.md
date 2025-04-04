@@ -109,10 +109,26 @@ The data consists of two sets of files that describing the behavior of customers
 
     - Average Salary by Education level: 
 
-    
+      - Customers with a PhD have the highest average salary, while those with a high school education or less have the lowest.
+
+      - Master's degree holders earn more on average than those with a bachelor's degree.
+
+      - PhD holders show the widest salary range, while high school or less-educated customers exhibit the narrowest salary range.
+
+    - Percentage of customers by loyalty card type:
+
+      - The majority of customers own a Star loyalty card.
+
+    - Customers by marital status and gender: 
+
+      - There are more female than male customers, with married customers being the majority and divorced customers the least.
+
+      - The male-to-female ratio is almost equal across marital statuses, except among single customers, where women are more numerous than men.
 3. **Next Steps**: 
 
-    - Visualization using geopy and geopandas.
+  - Visualization of customers by province using geopy and geopandas.
 
-    - Handle nulls in 'Salary'.
+  - Handle nulls in 'Salary'.
+
+  - A deeper exploration of the relationship between flight distance and points accumulated.
 
