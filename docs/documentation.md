@@ -132,3 +132,5 @@ The data consists of two sets of files that describing the behavior of customers
 
   - A deeper exploration of the relationship between flight distance and points accumulated.
 
+  - Hypothesis test over all education groups.
+
