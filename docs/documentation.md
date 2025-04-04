@@ -35,6 +35,7 @@ The data consists of two sets of files that describing the behavior of customers
   - `Points Redeemed`(int64): Points that the customer has redeemed in the month, possibly for benefits such as free flights, upgrades, etc.
   - `Dollar Cost Points Redeemed`(int64): The dollar value of the points that the customer has redeemed during the month."
 
+---
 
 - **Source:** Customer_Loyalty_History.csv
 - **Format:** CSV 
@@ -63,7 +64,7 @@ The data consists of two sets of files that describing the behavior of customers
 ## 🛠️ Tools & Technologies
 
 - **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib
 - **Jupyter Notebooks / VS Code**
 
 ---
@@ -89,7 +90,7 @@ The data consists of two sets of files that describing the behavior of customers
 
       - `Country`: It only has 'Canada'. This column is deleted.  
 
-2. **Results of EDA & Interpretation**: 
+2. **Results**: 
 
     - Flight Reservations: 
 
