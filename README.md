@@ -5,11 +5,12 @@
 * [Description](#️-description)
 * [Installation](#️-installation)
 * [Project Structure](#-project-structure)
+* [Dependencies](#dependencies)
 * [Data](#-data)
 * [Key findings](#-key-findings)
 * [Contact](#contact)
 
-## 🗒️ Description 
+## 🗒️ Description  
 
 This project is part of Adalab Data Analytics Bootcamp and corresponds to the evaluation for Module 3. It focuses on analyzing two datasets: `Customer_Flight_Activity.csv` and `Customer_Loyalty_History.csv`. The goal is to identify key trends and patterns in customer behavior within an airline loyalty program. The insights derived from this analysis will help the company make data-driven decisions. By applying various data analysis techniques learned in Module 3, this project aims to demonstrate the skills acquired in handling, cleaning, and analyzing data, as well as effectively presenting the findings.
 
@@ -69,7 +70,7 @@ This project is part of Adalab Data Analytics Bootcamp and corresponds to the ev
 
 - **`requirements.txt`**: List of dependencies needed to set up this project.
 
-## Dependencies
+## 📌 Dependencies
 
 * `pandas`
 * `numpy`
