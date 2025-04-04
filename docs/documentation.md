@@ -68,7 +68,7 @@ The data consists of two sets of files that describing the behavior of customers
 
 ---
 
-## 🔍 Methodology
+## 🔍 Methodology and Key Insights
 
 1. **Data Cleaning**: 
     - `Customer_Flight_Activity.csv`: 
@@ -89,11 +89,23 @@ The data consists of two sets of files that describing the behavior of customers
 
       - `Country`: It only has 'Canada'. This column is deleted.  
 
-2. **Exploratory Data Analysis (EDA)**: 
+2. **Results of EDA & Interpretation**: 
 
+    - Flight Reservations: 
 
-3. **Results & Interpretation**: Summarizing key insights.
-4. **Conclusions & Next Steps**: 
+      - Flight reservations follow a seasonal pattern, with lower bookings in winter (January and February) and a peak in July, possibly linked to summer vacations. A rise is also seen in March, likely due to Spring Break, and in December due to Christmas.
+
+      - Overall, 2018 saw more flight reservations from April to December compared to 2017.
+
+    - Flight Distance VS Points Accumulated: 
+
+      - A strong correlation exists between 'Points Accumulated' and 'Distance,' with distinct trends for different loyalty cards: Aurora users accumulate more points per distance than Nova or Star users.
+
+      - Despite these trends, a significant number of users accumulate the same points per distance, regardless of their loyalty card.
+
+3. **Next Steps**: 
 
     - Visualization using geopy and geopandas.
+
+    - Handle nulls in 'Salary'.
 
